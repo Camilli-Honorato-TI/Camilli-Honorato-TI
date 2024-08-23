@@ -1,6 +1,6 @@
 ## Olá Pessoal! Tec.Informática Camilli Honorato 👋
 
-- 🧑🏻‍🏫 ALuna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 Perfil destinado às meus códigos de Linguagem de Programação, Lógica de Programação.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilli-Honorato-TI&theme=radical&show_icons=true)
