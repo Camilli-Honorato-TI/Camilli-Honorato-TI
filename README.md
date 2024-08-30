@@ -3,7 +3,7 @@
 - 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil.
 - 💻 Perfil destinado às meus códigos de Programação.
 - 📚 Sempre disposta a novos desafios!
-- 😊 Tenho 16 anos, moro em Criciúma-SC.
+- 😊 Tenho 16 anos, moro em Criciúma/SC - Brasil.
 - 🏫 Estudo em tempo integral.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilli-Honorato-TI&theme=radical&show_icons=true)
