@@ -1,8 +1,10 @@
 ## Olá me chamo Camilli Honorato, estou cursando Tec.Informática! 👋
 
-- 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil.
 - 💻 Perfil destinado às meus códigos de Programação.
 - 📚 Sempre disposta a novos desafios!
+- 😊 Tenho 16 anos, moro em Criciúma-SC.
+- 🏫 Estudo em tempo integral.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilli-Honorato-TI&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilli-Honorato-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
