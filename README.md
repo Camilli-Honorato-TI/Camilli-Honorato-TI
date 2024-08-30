@@ -1,4 +1,4 @@
-## Olá Pessoal! Tec.Informática Camilli Honorato 👋
+## Olá me chamo Camilli Honorato, estou cursando Tec.Informática! 👋
 
 - 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 Perfil destinado às meus códigos de Programação.
