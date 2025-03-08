@@ -1,7 +1,7 @@
 ## Olá me chamo Camilli Honorato, estou cursando Tec.Informática! 👋
 
 - 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil.
-- 💻 Perfil destinado às meus códigos de Programação.
+- 💻 Perfil destinado aos meus códigos de programação.
 - 📚 Sempre me dedicando e melhorando minha versão pessoal e profissinal, dia após dia!
 - 😊 Tenho 17 anos, moro em Criciúma/SC - Brasil.
 - 🏫 Estudo em período integral.
