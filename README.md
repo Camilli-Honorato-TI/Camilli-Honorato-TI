@@ -4,7 +4,7 @@
 - 💻 Perfil destinado às meus códigos de Programação.
 - 📚 Sempre me dedicando e melhorando minha versão pessoal e profissinal, dia após dia!
 - 😊 Tenho 17 anos, moro em Criciúma/SC - Brasil.
-- 🏫 Estudo em tempo integral.
+- 🏫 Estudo em período integral.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilli-Honorato-TI&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilli-Honorato-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
