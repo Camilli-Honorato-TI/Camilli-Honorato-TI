@@ -31,12 +31,6 @@ aprendendo novas tecnologias e construindo projetos práticos.
 
 ---
 
-### 📊 GitHub
-[📈 Estatísticas do GitHub](https://github.com/anuraghazra/github-readme-stats)  
-[🌐 Principais linguagens](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🌐 Conecte-se comigo
 <p>
   <a href="https://www.instagram.com/](https://www.instagram.com/salvaro.milizinha/" target="_blank">
