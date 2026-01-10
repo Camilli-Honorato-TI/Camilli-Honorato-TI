@@ -1,10 +1,9 @@
-## Olá me chamo Camilli Honorato, estou cursando Tec.Informática! 👋
+## Olá me chamo Camilli Honorato, e sou formada em Tec.Informática! 👋
 
-- 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil.
+- 👩‍💻 Atuo como Suporte técnico na Next Fit | Sistema para academias, estúdios e boxes de Criciúma/SC - Brasil.
 - 💻 Perfil destinado aos meus códigos de programação.
 - 📚 Sempre me dedicando e melhorando minha versão pessoal e profissinal, dia após dia!
 - 😊 Tenho 17 anos, moro em Criciúma/SC - Brasil.
-- 🏫 Estudo em período integral.
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
