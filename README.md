@@ -33,7 +33,7 @@ aprendendo novas tecnologias e construindo projetos práticos.
 
 ### 🌐 Conecte-se comigo
 <p>
-  <a href="https://www.instagram.com/](https://www.instagram.com/salvaro.milizinha/" target="_blank">
+  <a href="https://www.instagram.com/salvaro.milizinha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:camillihonoratovit@gmail.com">
