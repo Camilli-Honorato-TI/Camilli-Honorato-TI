@@ -6,8 +6,8 @@
 - 😊 Tenho 17 anos, moro em Criciúma/SC - Brasil.
 - 🏫 Estudo em período integral.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilli-Honorato-TI&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilli-Honorato-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
