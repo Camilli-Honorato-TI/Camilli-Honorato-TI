@@ -1,27 +1,51 @@
-## Olá me chamo Camilli Honorato, e sou formada em Tec.Informática! 👋
+## Olá! Eu sou Camilli Salvaro 👋  
 
-- 👩‍💻 Atuo como Suporte técnico na Next Fit | Sistema para academias, estúdios e boxes de Criciúma/SC - Brasil.
-- 💻 Perfil destinado aos meus códigos de programação.
-- 📚 Sempre me dedicando e melhorando minha versão pessoal e profissinal, dia após dia!
-- 😊 Tenho 17 anos, moro em Criciúma/SC - Brasil.
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+🎓 **Técnica em Informática**  
+💻 **Desenvolvimento e Programação**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" >
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" >
+---
 
-</div>
- <br><br>
- 
-<div> 
-  <a href="https://www.instagram.com/milizinhahonorato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:camillihonoratovit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilli-vit%C3%B3ria-salvaro-honorato-b41556307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### 👩‍💻 Sobre mim
+- 🎓 Formada no **Curso Técnico em Informática** pelo **CEDUP Abílio Paulo**
+- 🏢 Atuo como **Suporte Técnico na Next Fit**, sistema para academias, estúdios e boxes  
+- 📍 Criciúma – SC, Brasil  
+- 🌱 Em constante aprendizado e evolução pessoal e profissional  
+
+---
+
+### 🎯 Objetivo Profissional
+Busco evoluir como desenvolvedora, aplicando meus conhecimentos em programação,  
+aprendendo novas tecnologias e construindo projetos práticos.
+
+---
+
+### 🛠️ Tecnologias e Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub
+[📈 Estatísticas do GitHub](https://github.com/anuraghazra/github-readme-stats)  
+[🌐 Principais linguagens](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Conecte-se comigo
+<p>
+  <a href="https://www.instagram.com/](https://www.instagram.com/salvaro.milizinha/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:camillihonoratovit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/camilli-vit%C3%B3ria-salvaro-honorato-b41556307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
