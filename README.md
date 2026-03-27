@@ -6,6 +6,7 @@
 ---
 
 ### 👩‍💻 Sobre mim
+- 🎓 Estudante de **Engenharia de Software** pela **SATC** - 1/8
 - 🎓 Formada no **Curso Técnico em Informática** pelo **CEDUP Abílio Paulo**
 - 🏢 Atuo como **Suporte Técnico na Next Fit**, sistema para academias, estúdios e boxes  
 - 📍 Criciúma – SC, Brasil  
