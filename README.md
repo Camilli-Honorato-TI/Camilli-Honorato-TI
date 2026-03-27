@@ -1,5 +1,6 @@
 ## Olá! Eu sou Camilli Salvaro 👋  
 
+👩‍💻 **Estudante de Eng. Software**
 🎓 **Técnica em Informática**  
 💻 **Desenvolvimento e Programação**
 
